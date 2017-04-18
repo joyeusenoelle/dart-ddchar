@@ -1,5 +1,5 @@
-##D&D Character Generator
-###Dart 1.22.1
+## D&D Character Generator
+### Dart 1.22.1
 
 A D&D random character generator written to learn Dart! ddchar.dart is intended to be run on the command line. It accepts the following flags:
 
